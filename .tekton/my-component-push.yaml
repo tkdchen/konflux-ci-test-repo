@@ -10,7 +10,7 @@ metadata:
       == "main"
   creationTimestamp: null
   labels:
-    appstudio.openshift.io/application: sample-component
+    appstudio.openshift.io/application: my-app
     appstudio.openshift.io/component: my-component
     pipelines.appstudio.openshift.io/type: build
   name: my-component-on-push
